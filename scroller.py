@@ -1,11 +1,6 @@
 import pygame
 import random
 import time
-from os import path
-
-vec = pygame.math.Vector2
-
-img_dir = path.join(path.dirname(__file__), 'img')
 
 WIDTH = 800
 HEIGHT = 600
