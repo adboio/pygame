@@ -1,6 +1,5 @@
 import pygame
 import random
-import time
 
 WIDTH = 800
 HEIGHT = 600
